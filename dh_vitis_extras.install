@@ -1,0 +1,7 @@
+<?php
+
+function dh_vitis_extras_install() {
+
+}
+
+?>
