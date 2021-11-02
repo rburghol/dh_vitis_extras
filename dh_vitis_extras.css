@@ -523,3 +523,7 @@
   padding-right: 15px;
   background: url(images/barchart.svg) no-repeat right center;
 }
+.imagelink {
+  padding-right: 15px;
+  background: url(images/icons8-image-50.png) no-repeat right center;
+}
